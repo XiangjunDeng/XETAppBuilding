@@ -16,6 +16,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine();
 
+            // Record the result of 1+1. 
             Console.Write(1 + 1);
         }
     }
