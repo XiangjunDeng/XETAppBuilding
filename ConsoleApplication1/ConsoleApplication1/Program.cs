@@ -8,11 +8,13 @@ namespace ConsoleApplication1
 {
     class Program
     {
+        /// <summary>
+        /// This is a main method
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine();
-            //hello
-            ///////////
         }
     }
 }
